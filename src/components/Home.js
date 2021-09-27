@@ -1,10 +1,8 @@
 import React from "react";
-// API
-import API from "../API";
+
 
 import { POSTER_SIZE, BACKDROP_SIZE, IMAGE_BASE_URL } from "../config";
 
-// Components
 
 // Hooks
 import { useHomeFetch } from "../hooks/useHomeFetch";
